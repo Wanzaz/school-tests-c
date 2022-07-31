@@ -1,0 +1,25 @@
+1. Na vstupu máme n celých čísel (n je celé číslo). Vypište průměr záporných čísel.
+2. Na vstupu máme n celých čísel (n je celé číslo). Vypište počet záporných čísel.
+3. Na vstupu máme n celých čísel (n je celé číslo). Vypište součet kladných čísel.
+4. Na vstupu máme n celých čísel (n je celé číslo). Vypište počet lichých čísel.
+5. Na vstupu máme n celých čísel (n je celé číslo). Vypište počet čísel končící na číslici 0.
+6. Na vstupu máme n celých čísel (n je celé číslo). Vypište počet čísel, která jsou dělitelná 5 beze zbytku.
+7. Na vstupu máme celé číslo n. Vypište všechna čísla od 0 do n (na jeden řádek, čísla oddělujte mezerou). 
+8. Na vstupu máme celé číslo n. Vypište všechna čísla od n do 100 (na jeden řádek, čísla oddělujte mezerou).
+9. Na vstupu máme celé číslo n. Vypište jeho prvních 10 násobků: př: n = 6, výstup: 6 12 18 24 30 36 42 48 54 60
+10. Na vstupu máme celé číslo x a n celých čísel (n je celé číslo). Vypište počet čísel, která jsou větší než x. Př: x = 4, n = 3, čísla: 5 1 -9, výstup: 1 (je to číslo 5)
+11. Na vstupu máme celé číslo n. Zjistěte jeho ciferný součet.
+12. Na vstupu máme celé číslo n. Zjistěte, kolik má cifer.
+13. Na vstupu máme celé číslo n. Zjistěte kolik cifer 2 se nachází v jeho zápisu. Př. n = 2522, výstup: 3
+14. Na vstupu máme celá čísla, jejich načítání ukončíme, jakmile načteme číslo 0. (Číslo 0 se nebude započítávat do výsledku.) Vypište průměr kladných čísel.
+15. Na vstupu máme celá čísla, jejich načítání ukončíme, jakmile načteme číslo 0. (Číslo 0 se nebude započítávat do výsledku.) Vypište počet kladných čísel.
+16. Na vstupu máme celá čísla, jejich načítání ukončíme, jakmile načteme číslo 0. (Číslo 0 se nebude započítávat do výsledku.) Vypište průměr záporných čísel.
+17. Na vstupu máme celá čísla, jejich načítání ukončíme, jakmile načteme číslo 0. (Číslo 0 se nebude započítávat do výsledku.) Vypište počet sudých čísel.
+18. Na vstupu máme celá čísla, jejich načítání ukončíme, jakmile načteme číslo 0. (Číslo 0 se nebude započítávat do výsledku.) Vypište počet čísel končících cifrou 3.
+19. Na vstupu máme celá čísla, jejich načítání ukončíme, jakmile načteme číslo 0. (Číslo 0 se nebude započítávat do výsledku.) Vypište počet čísel, která jsou dělitelná  8 beze zbytku.
+20. Na vstupu máme dvě kladná celá čísla x, y. Zjistěte jejich největší společný dělitel.
+21. Na vstupu máme dvě kladná celá čísla x, y. Vypište všechny jejich kladné dělitele.
+22. Na vstupu máme n celých čísel (n je celé číslo). Vypište z nich to největší.
+23. Navrhněte algoritmus, který pro zadané celé číslo N vypočte jeho faktoriál.
+24. Na vstupu máme celé číslo n. Vytiskněte počet kladných dělitelů tohoto čísla. Př. n = 8, výstup: 1 2 4 8
+25. Na vstupu máme celé číslo n. Zjistěte, zda je to prvočíslo. (Využijte příklad 24.)
